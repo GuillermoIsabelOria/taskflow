@@ -1,3 +1,3 @@
 # TaskFlow
-Autor: Alejandro
-Descripción: Proyecto base para la práctica PE1. Andamio inicial con estructura para desarrollar TaskFlow.
+Autor: Guillermo 
+Descripción: Proyecto base para la práctica PE1. Estructura para desarrollar TaskFlow.
