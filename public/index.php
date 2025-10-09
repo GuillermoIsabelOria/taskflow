@@ -10,7 +10,7 @@ define("SITE_NAME", "TaskFlow");
 $pageTitle = SITE_NAME . " - Página de Inicio";
 
 // Variables para simular los datos de un perfil de usuario
-$userName = "Alejandro Murga";  // Tipo String - personalizado con tu nombre
+$userName = "Guillermo";  // Tipo String - personalizado con tu nombre
 $userAge = 20;                  // Tipo Integer
 $isPremiumUser = true;          // Tipo Boolean
 ?>
